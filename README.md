@@ -23,6 +23,10 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 ---
 
@@ -30,13 +34,10 @@
 
 Here are some of my favorite projects 👇
 
-- 📝 [**To-Do List App**](alisufyan69.github.io/TO-DO-LIST/) — Manage daily tasks easily with a clean UI  
+- 📝 [**To-Do List App**](https://alisufyan69.github.io/TO-DO-LIST/) — Manage daily tasks easily with a clean UI  
 - 🎯 [**Quiz App**]( https://alisufyan69.github.io/quiz-app/) — Interactive quiz game built with JavaScript  
-- 🧮 [**Calculator App**](#) — Simple yet functional calculator web app
--     [**Calculator App**](#) — Simple yet functional calculator web app  
-
-
-*(You can replace the `#` links with your actual project URLs later)*
+- 🧮 [**Calculator App**](https://alisufyan69.github.io/calculator/) — Simple yet functional calculator web app
+- ⌚ [**Calculator App**](https://alisufyan69.github.io/stopWatch/) — With a great Ui design web app  
 
 ---
 
@@ -44,7 +45,6 @@ Here are some of my favorite projects 👇
 
 ![Ali Sufyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALISUFYAN69&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALISUFYAN69&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALISUFYAN69&theme=tokyonight)
 
 ---
 
