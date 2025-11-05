@@ -30,7 +30,7 @@
 
 Here are some of my favorite projects 👇
 
-- 📝 [**To-Do List App**]( https://alisufyan69.github.io/quiz-app/) — Manage daily tasks easily with a clean UI  
+- 📝 [**To-Do List App**](alisufyan69.github.io/TO-DO-LIST/) — Manage daily tasks easily with a clean UI  
 - 🎯 [**Quiz App**]( https://alisufyan69.github.io/quiz-app/) — Interactive quiz game built with JavaScript  
 - 🧮 [**Calculator App**](#) — Simple yet functional calculator web app
 -     [**Calculator App**](#) — Simple yet functional calculator web app  
