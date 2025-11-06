@@ -37,7 +37,7 @@ Here are some of my favorite projects 👇
 - 📝 [**To-Do List App**](https://alisufyan69.github.io/TO-DO-LIST/) — Manage daily tasks easily with a clean UI  
 - 🎯 [**Quiz App**]( https://alisufyan69.github.io/quiz-app/) — Interactive quiz game built with JavaScript  
 - 🧮 [**Calculator App**](https://alisufyan69.github.io/calculator/) — Simple yet functional calculator web app
-- ⌚ [**Calculator App**](https://alisufyan69.github.io/stopWatch/) — With a great Ui design web app  
+- ⌚ [**Stop Watch**](https://alisufyan69.github.io/stopWatch/) — With a great Ui design web app  
 
 ---
 
